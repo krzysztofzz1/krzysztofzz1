@@ -14,7 +14,7 @@ Science, Robotics, Astronomy, Formula 1, Cycling
 
 **GitHub:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krzysztofzz1&include_all_commits=true)
 
 **Contact:**
 
